@@ -39,13 +39,6 @@ python benchmark_v2.py
 - Portfolio: [kanthi-cloud-portfolio.s3-website-ap-southeast-2.amazonaws.com](http://kanthi-cloud-portfolio.s3-website-ap-southeast-2.amazonaws.com)
 ```
 
----
-
-**LICENSE — add MIT license:**
-1. Click **Add file** → **Create new file**
-2. Name it `LICENSE`
-3. Paste this:
-```
 MIT License
 
 Copyright (c) 2026 Kanthi Phoosorn
@@ -58,4 +51,5 @@ use, copy, modify, merge, publish, distribute, sublicense,
 and/or sell copies of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF 
+ANY KIND.
 ANY KIND.
